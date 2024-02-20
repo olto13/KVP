@@ -1,6 +1,6 @@
 # One-Axis-Reaction-Wheel-Stick
 
-Arduino mini, Nidec 24H motors, MPU6050, 3S 500 mAh LiPo battery.
+Arduino mini, Nidec 24H motors, MPU6050.
 
 Balancing controller can be tuned remotely over bluetooth.
 
